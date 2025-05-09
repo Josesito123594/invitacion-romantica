@@ -51,7 +51,7 @@
 <body>
   <div class="container" id="pantalla1">
     <h2>Buenos días mi reina linda 💖</h2>
-    <p class="message">Espero te encuentres súper bien. Pasaba por acá a desearte un gran día y a decirte algo bonito...</p>
+    <p class="message">Espero te encuentres súper bien. Pasaba por acá a desearte un gran día y a decirte algo bonito...TE AMOOOO MUCHO DJRS</p>
     <img src="foto1.jpg" alt="Foto de nosotros">
     <p class="message">Ingresa una clave especial para continuar:</p>
     <input type="password" id="clave" placeholder="DD/MM/AAAA">
